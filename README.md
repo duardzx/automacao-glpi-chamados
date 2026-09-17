@@ -64,6 +64,7 @@ Antes de rodar, abra o arquivo script.py (ou script2.py) e garanta que a variáv
 url_formulario = "https://seu-glpi.suaempresa.com.br"
 
 🎯 Como Executar
+
 Execute o script Python:
 python script.py
 O Google Chrome será aberto automaticamente na página de login do GLPI.
