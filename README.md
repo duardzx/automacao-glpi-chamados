@@ -59,7 +59,7 @@ Crie um arquivo chamado chamados.csv na raiz do projeto (utilizando separador ; 
 
 Antes de rodar, abra o arquivo script.py (ou script2.py) e garanta que a variável da URL esteja apontando para o seu servidor GLPI:
 
-Python
+
 # URL do formulário do GLPI
 url_formulario = "https://seu-glpi.suaempresa.com.br"
 
